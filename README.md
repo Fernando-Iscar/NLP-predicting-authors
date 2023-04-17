@@ -8,7 +8,7 @@ The following project was meant to be part of Challegne assigment in a Machine L
 - Methods: given the nature of the assigment, several methods where selected and tried with the purpose to enhance the accuracy score. 
 
 Files details: 
-###### train.json 
+####### train.json 
 - test.json 
 - ML-Group.py: this was the last submission we did as a group with fellow collegues Fernando Iscar, Shan Cao, Robbie Werner. 
 - Extended_version: file in which further work is done with the purpose again to enhance the accuracy and also to incorporate explanation to the code. (recomended for the reader to understand the mechanism)
