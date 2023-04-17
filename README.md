@@ -13,7 +13,7 @@ The following project was meant to be part of Challegne assigment in a Machine L
 - test.json: dataset with same features as train dataset but with no "authoID" which is the target value 
 - features.txt: explanations of the features of the dataset provided 
 - ML-Group-29.py: this was the last submission we did as a group with fellow collegues Fernando Iscar, Shan Cao, Robbie Werner. That version achieved a 0.13
-- Extended_version: file in which further work is done with the purpose again to enhance the accuracy and also to incorporate explanation to the code. (recomended for the reader to understand the mechanism)
+- Extended_version.ipynb: file in which further work is done with the purpose again to enhance the accuracy and also to incorporate explanation to the code. (recomended for the reader to understand the mechanism)
 
 
 
