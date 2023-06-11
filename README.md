@@ -1,19 +1,19 @@
-# Prediction of Authors based on Papers
+# Prediction of Authors based on Academic Papers
 
-The following project was meant to be part of Challegne assigment in a Machine Learning course designed by Dr. Grzegorz Chrupala, Dr. Çiçek Güven, Dr. Mojtaba Rostami Kandroodi.
+This project, designed as a challenge assignment for the Machine Learning course led by Dr. Grzegorz Chrupala, Dr. Çiçek Güven, and Dr. Mojtaba Rostami Kandroodi, focuses on 
 
-- The main goal: to predict the lead author of a paper or authorID in a given dataset based on characteristics such as tittle, abstract, year, etc. 
-- Dataset was provided by the designers of the course. 
-- Evaluation metric: accuracy score 
-- Methods: given the nature of the assigment, several methods where selected and tried with the purpose to enhance the accuracy score. 
+- **Goal:**: predicting the lead author of an academic paper based on distinct attributes such as `title`, `abstract`, `year`, and more.
+- **Dataset:** provided by the designers of the course. 
+- **Evaluation metric:** accuracy score 
+- **Methods:** given the nature of the assigment, several methods where selected and tried with the purpose to enhance the accuracy score. 
 
-### Files details: 
+## Dataset & Files Description: 
 
-- train.json: dataset provided for the training and validation sets containing several features which are described in features.txt
-- test.json: dataset with same features as train dataset but with no "authoID" which is the target value 
-- features.txt: explanations of the features of the dataset provided 
-- ML-Group-29.py: this was the last submission we did as a group with fellow collegues Fernando Iscar, Shan Cao, Robbie Werner. That version achieved a 0.13 which is low but the challenge had its limitations and in the general public was achieved 0.21
-- Extended_version.ipynb: file in which further work is done with the purpose again to enhance the accuracy and also to incorporate explanation to the code. (recomended for the reader to understand the mechanism)
+- `train.json:` This file serves as the training and validation sets. It comprises numerous features, all of which are detailed in the `features.txt` file.
+- `test.json:` This dataset contains the same features as the training dataset, excluding the target value, `authorID`.
+- `features.txt:` This file provides comprehensive explanations of the dataset features.
+- `ML-Group-29.py:` This is our final group submission, collaboratively prepared with Fernando Iscar, Shan Cao, and Robbie Werner. This version achieved an accuracy score of 0.13 - a respectable result considering the complexity of the problem (scores ranged from 0 to 35).
+- `Extended_version.ipynb:` This file features additional work and detailed code explanations aiming to enhance the accuracy. It is highly recommended for readers seeking to understand the code's mechanism.
 
 
 
